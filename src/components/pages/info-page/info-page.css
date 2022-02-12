@@ -1,0 +1,16 @@
+.infoPage {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.showInfo {
+    width: 500px;
+    height: 500px;
+}
+
+.showImg {
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,14 @@
+.home-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.showsList{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+
+.genreTitle {
+    display: inline-block;
+}

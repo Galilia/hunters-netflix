@@ -1,0 +1,7 @@
+.show {
+    flex: 0 0 auto;
+    width: 210px;
+    height: 350px;
+    background-color: cadetblue;
+    margin: 10px;
+}
